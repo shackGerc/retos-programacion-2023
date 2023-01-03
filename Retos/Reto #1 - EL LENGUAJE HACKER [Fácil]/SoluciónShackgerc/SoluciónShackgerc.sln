@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoluciónShackgerc", "SoluciónShackgerc.csproj", "{4F114588-C501-4994-8E7D-8D48C0499A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F114588-C501-4994-8E7D-8D48C0499A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F114588-C501-4994-8E7D-8D48C0499A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F114588-C501-4994-8E7D-8D48C0499A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F114588-C501-4994-8E7D-8D48C0499A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D21A5F9-A7F5-446E-BD02-E6F487FCDEB8}
+	EndGlobalSection
+EndGlobal
